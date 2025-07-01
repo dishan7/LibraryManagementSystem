@@ -7,5 +7,4 @@ The library management system consists of 4 classes:
 4. LendBookToPatron -> uses a HashMap of patrons and a HashSet of books.
 
 
-
-<img width="638" alt="Screenshot 2025-07-01 at 11 26 01 PM" src="https://github.com/user-attachments/assets/f9401251-7461-48a0-ad3a-75ce540e4ed1" />
+<img width="638" alt="Screenshot 2025-07-01 at 11 26 01 PM" src="https://github.com/user-attachments/assets/e3bb4b4f-37db-4cf0-b4bc-851fba5ee50f" />
